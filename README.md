@@ -1,5 +1,15 @@
 # Screen-Recorder-Using-Python
 
+Author :: Ps Thamizhan
+
+Tool Name :: Screen Recorder
+
+Version :: 1.0
+
+Reach me :: psthamizhan02@gmail.com
+
+# Description
+
 Screen Recorder for desktop and Take Screen Shot Using Python Tkinter.
 
 
